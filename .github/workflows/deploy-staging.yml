@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: SandraHany-Dar-azure-ttt
-  AZURE_WEBAPP_NAME: SandraHany-Dar-ttt-app
+  DOCKER_IMAGE_NAME: -Dar-azure-ttt
+  AZURE_WEBAPP_NAME: -Dar-ttt-app
   ###############################################
 
 jobs:
